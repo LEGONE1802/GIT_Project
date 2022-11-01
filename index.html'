@@ -1,38 +1,23 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>This is Tanarat Sarabue 🐢</title>
+  </head>
+  <body>
+    <img src="Frank img.png"tanarat sarabue imge by my girlfriends" width="250" heigth="250">
+    <h1>ธนรัตน์ สาระบัว</h1>
+    <p>คณะวิศวกรรมคอมพิวเตอร์และสารสนเทศ</p>
+    <p>สาขาเทคโนโลยีดิจิทัลและสารสนเทศ</p>
+    <p><strong><a href="http://www.pim.ac.th">สถาบันกาารจัดการปัญญาภิวัฒน์</a></strong></p>
+    <br>    ผมชื่อธนรัตน์ สาระบัว ชื่อเล่นชื่อแฟรงค์ เพื่อนที่สนิทกันหน่อยก็จะเรียกไอ้แฟรงค์คครับ
+    <hr>
+    <h3>ประสบการณ์การทำงาน</h3>
+    <ul>
+      <li>7-11</li>
+    </ul>
 
-<head>
-  <meta charset="utf-8">
-  <title>This is Astapon </title>
-  <link rel="stylesheet" href="css/styles.css">
-  <link href="https://fonts.googleapis.com/css2?family=Mitr:wght@200;300&display=swap" rel="stylesheet">
-</head>
+    <a href="contact.html">ช่องทางในการติดต่อ... 📞?</a>
 
-<body>
-  <div class="top-container">
-    <img class="top-cloud" src="images/cloud.png" alt="" id="home">
-    <h1>I'm Astapon Anuchat</h1>
-    <h2><u>S</u>tudent of <u>P</u>anyapiwat <u>I</u>nstitute of <u>M</u>anagement</h2>
-    <img class="bottom-cloud" src="images/cloud.png" alt="">
-    <img src="images/mountain.png" alt="">
-  </div>
-  <div class="middle-container">
-    <div class="profile">
-      <hr>
-      <div class="skills" id="skills">
-        <h2>My Skills</h2>
-        <div class="skill-row">
-          <h3>God like Javascript Coding</h3>
-        </div>
-      </div>
-      <hr>
-      <div class="contact-me" id="contact">
-      </div>
-
-
-      <div class="bottom-container">
-      </div>
-
-</body>
-
+  </body>
 </html>
